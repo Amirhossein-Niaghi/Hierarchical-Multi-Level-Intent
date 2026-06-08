@@ -1,0 +1,1501 @@
+text,level1,level2,level3,dataset,split
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Negative,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Strongly Negative,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Positive,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Neutral,ecommerce,dev
+Please help me with return request as soon as possible.,Request,Return_Request,Strongly Positive,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Neutral,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Negative,ecommerce,dev
+Please help me with book ticket as soon as possible.,Request,Book_Ticket,Neutral,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Neutral,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Positive,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Strongly Negative,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Positive,ecommerce,dev
+I am experiencing an issue related to payment issue.,Complaint,Payment_Issue,Positive,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Neutral,ecommerce,dev
+I am experiencing an issue related to payment issue.,Complaint,Payment_Issue,Positive,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Negative,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Negative,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Positive,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Neutral,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+I would like to return request regarding my recent order.,Request,Return_Request,Negative,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Neutral,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Positive,ecommerce,dev
+I want to give feedback about delivery status.,Query,Delivery_Status,Negative,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Strongly Negative,ecommerce,dev
+I would like to return request regarding my recent order.,Request,Return_Request,Strongly Positive,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Neutral,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Positive,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Neutral,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to payment issue.,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Neutral,ecommerce,dev
+I am experiencing an issue related to payment issue.,Complaint,Payment_Issue,Positive,ecommerce,dev
+Please help me with return request as soon as possible.,Request,Return_Request,Strongly Negative,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Positive,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Strongly Positive,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Positive,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Neutral,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Neutral,ecommerce,dev
+I want to give feedback about delivery status.,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Neutral,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Negative,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Strongly Negative,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Strongly Positive,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+I would like to return request regarding my recent order.,Request,Return_Request,Neutral,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Negative,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Positive,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Negative,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Strongly Negative,ecommerce,dev
+Please help me with track package as soon as possible.,Feedback,Track_Package,Neutral,ecommerce,dev
+I would like to report problem regarding my recent order.,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+I would like to return request regarding my recent order.,Request,Return_Request,Strongly Negative,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Negative,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Neutral,ecommerce,dev
+I would like to report problem regarding my recent order.,Complaint,Report_Problem,Neutral,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Positive,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Negative,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Positive,ecommerce,dev
+I am experiencing an issue related to book ticket.,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+Please help me with book ticket as soon as possible.,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+Please help me with track package as soon as possible.,Feedback,Track_Package,Neutral,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Positive,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Positive,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Strongly Negative,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Neutral,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Neutral,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Strongly Positive,ecommerce,dev
+I would like to report problem regarding my recent order.,Complaint,Report_Problem,Positive,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Positive,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Strongly Positive,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+I want to give feedback about product inquiry.,Query,Product_Inquiry,Negative,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Positive,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Positive,ecommerce,dev
+Please help me with track package as soon as possible.,Feedback,Track_Package,Negative,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Positive,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Positive,ecommerce,dev
+I want to give feedback about delivery status.,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Neutral,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Neutral,ecommerce,dev
+I want to give feedback about delivery status.,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Negative,ecommerce,dev
+Can you provide information about report problem?,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+Please help me with return request as soon as possible.,Request,Return_Request,Strongly Negative,ecommerce,dev
+I would like to return request regarding my recent order.,Request,Return_Request,Positive,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Neutral,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Positive,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Negative,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Positive,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Positive,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Neutral,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Negative,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Negative,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+I want to give feedback about track package.,Feedback,Track_Package,Negative,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Positive,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Positive,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Neutral,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Neutral,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Neutral,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Negative,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Neutral,ecommerce,dev
+I want to give feedback about track package.,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Neutral,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Positive,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Positive,ecommerce,dev
+I want to give feedback about delivery status.,Query,Delivery_Status,Neutral,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Negative,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Negative,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Positive,ecommerce,dev
+I would like to return request regarding my recent order.,Request,Return_Request,Neutral,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Neutral,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Strongly Positive,ecommerce,dev
+I want to give feedback about delivery status.,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Strongly Positive,ecommerce,dev
+I want to give feedback about delivery status.,Query,Delivery_Status,Negative,ecommerce,dev
+Please help me with book ticket as soon as possible.,Request,Book_Ticket,Negative,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Positive,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Neutral,ecommerce,dev
+Can you provide information about report problem?,Complaint,Report_Problem,Negative,ecommerce,dev
+I am experiencing an issue related to book ticket.,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Negative,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Positive,ecommerce,dev
+Please help me with book ticket as soon as possible.,Request,Book_Ticket,Neutral,ecommerce,dev
+I am experiencing an issue related to book ticket.,Request,Book_Ticket,Negative,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Strongly Positive,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Neutral,ecommerce,dev
+Please help me with return request as soon as possible.,Request,Return_Request,Strongly Negative,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Positive,ecommerce,dev
+I would like to return request regarding my recent order.,Request,Return_Request,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Positive,ecommerce,dev
+Please help me with track package as soon as possible.,Feedback,Track_Package,Neutral,ecommerce,dev
+I want to give feedback about delivery status.,Query,Delivery_Status,Neutral,ecommerce,dev
+I am experiencing an issue related to payment issue.,Complaint,Payment_Issue,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Neutral,ecommerce,dev
+I want to give feedback about product inquiry.,Query,Product_Inquiry,Negative,ecommerce,dev
+Please help me with track package as soon as possible.,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+I want to give feedback about delivery status.,Query,Delivery_Status,Positive,ecommerce,dev
+I am experiencing an issue related to book ticket.,Request,Book_Ticket,Neutral,ecommerce,dev
+I want to give feedback about track package.,Feedback,Track_Package,Negative,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Negative,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Neutral,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Strongly Negative,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Neutral,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+I would like to report problem regarding my recent order.,Complaint,Report_Problem,Neutral,ecommerce,dev
+I am experiencing an issue related to payment issue.,Complaint,Payment_Issue,Strongly Positive,ecommerce,dev
+I want to give feedback about delivery status.,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Positive,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Positive,ecommerce,dev
+Can you provide information about report problem?,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to book ticket.,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Positive,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Positive,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+Can you provide information about report problem?,Complaint,Report_Problem,Positive,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Positive,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Positive,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Neutral,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Neutral,ecommerce,dev
+I want to give feedback about track package.,Feedback,Track_Package,Negative,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Positive,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Neutral,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+Please help me with return request as soon as possible.,Request,Return_Request,Strongly Positive,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Positive,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Positive,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Neutral,ecommerce,dev
+Can you provide information about report problem?,Complaint,Report_Problem,Strongly Positive,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Strongly Positive,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Positive,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+I would like to report problem regarding my recent order.,Complaint,Report_Problem,Positive,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+Can you provide information about report problem?,Complaint,Report_Problem,Neutral,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Neutral,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Neutral,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Neutral,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Negative,ecommerce,dev
+I would like to return request regarding my recent order.,Request,Return_Request,Positive,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Neutral,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Positive,ecommerce,dev
+I want to give feedback about product inquiry.,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+Please help me with return request as soon as possible.,Request,Return_Request,Strongly Positive,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Negative,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Negative,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Neutral,ecommerce,dev
+I want to give feedback about product inquiry.,Query,Product_Inquiry,Negative,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Neutral,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+Please help me with track package as soon as possible.,Feedback,Track_Package,Neutral,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Neutral,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Strongly Negative,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Negative,ecommerce,dev
+I would like to return request regarding my recent order.,Request,Return_Request,Positive,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Strongly Negative,ecommerce,dev
+I would like to report problem regarding my recent order.,Complaint,Report_Problem,Positive,ecommerce,dev
+I would like to report problem regarding my recent order.,Complaint,Report_Problem,Negative,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Negative,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Positive,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Negative,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Positive,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Strongly Positive,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Positive,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Neutral,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Positive,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Positive,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Strongly Positive,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Neutral,ecommerce,dev
+Please help me with book ticket as soon as possible.,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Negative,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Neutral,ecommerce,dev
+I would like to report problem regarding my recent order.,Complaint,Report_Problem,Positive,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Neutral,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Strongly Negative,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Positive,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Positive,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Negative,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Neutral,ecommerce,dev
+I am experiencing an issue related to payment issue.,Complaint,Payment_Issue,Positive,ecommerce,dev
+I would like to report problem regarding my recent order.,Complaint,Report_Problem,Neutral,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Negative,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+Can you provide information about report problem?,Complaint,Report_Problem,Neutral,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Negative,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Neutral,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to payment issue.,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Neutral,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Positive,ecommerce,dev
+Can you provide information about report problem?,Complaint,Report_Problem,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Neutral,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Positive,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Negative,ecommerce,dev
+I want to give feedback about product inquiry.,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Positive,ecommerce,dev
+Can you provide information about report problem?,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+I want to give feedback about track package.,Feedback,Track_Package,Strongly Negative,ecommerce,dev
+I would like to report problem regarding my recent order.,Complaint,Report_Problem,Negative,ecommerce,dev
+Please help me with book ticket as soon as possible.,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Strongly Positive,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Neutral,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Neutral,ecommerce,dev
+I want to give feedback about track package.,Feedback,Track_Package,Positive,ecommerce,dev
+I would like to return request regarding my recent order.,Request,Return_Request,Strongly Positive,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Neutral,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Neutral,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Negative,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Negative,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Positive,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Neutral,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Negative,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Positive,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Positive,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Positive,ecommerce,dev
+I am experiencing an issue related to book ticket.,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Negative,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Negative,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Negative,ecommerce,dev
+I would like to return request regarding my recent order.,Request,Return_Request,Strongly Negative,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Neutral,ecommerce,dev
+Please help me with return request as soon as possible.,Request,Return_Request,Negative,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Negative,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Positive,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Neutral,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Negative,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Positive,ecommerce,dev
+Please help me with book ticket as soon as possible.,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Positive,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to payment issue.,Complaint,Payment_Issue,Strongly Positive,ecommerce,dev
+Please help me with track package as soon as possible.,Feedback,Track_Package,Neutral,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Neutral,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Positive,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Positive,ecommerce,dev
+I am experiencing an issue related to book ticket.,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to payment issue.,Complaint,Payment_Issue,Positive,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Negative,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Strongly Negative,ecommerce,dev
+I would like to return request regarding my recent order.,Request,Return_Request,Strongly Negative,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Positive,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Strongly Negative,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Neutral,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Neutral,ecommerce,dev
+I am experiencing an issue related to book ticket.,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Neutral,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Negative,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+I want to give feedback about product inquiry.,Query,Product_Inquiry,Negative,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to payment issue.,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+Can you provide information about report problem?,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Negative,ecommerce,dev
+Please help me with return request as soon as possible.,Request,Return_Request,Neutral,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Negative,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+Please help me with book ticket as soon as possible.,Request,Book_Ticket,Negative,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Positive,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Neutral,ecommerce,dev
+Please help me with track package as soon as possible.,Feedback,Track_Package,Negative,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Negative,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Negative,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Neutral,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Negative,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Strongly Positive,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Negative,ecommerce,dev
+Please help me with return request as soon as possible.,Request,Return_Request,Strongly Positive,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Neutral,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Positive,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Neutral,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Positive,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Neutral,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Strongly Positive,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Neutral,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Positive,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Negative,ecommerce,dev
+I want to give feedback about track package.,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+Please help me with book ticket as soon as possible.,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Negative,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Negative,ecommerce,dev
+I am experiencing an issue related to payment issue.,Complaint,Payment_Issue,Neutral,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Negative,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Positive,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Neutral,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to book ticket.,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Neutral,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Negative,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Neutral,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Positive,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Positive,ecommerce,dev
+I want to give feedback about delivery status.,Query,Delivery_Status,Positive,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Negative,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Neutral,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Neutral,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Neutral,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Negative,ecommerce,dev
+I want to give feedback about track package.,Feedback,Track_Package,Negative,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to book ticket.,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Positive,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Negative,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Negative,ecommerce,dev
+Please help me with return request as soon as possible.,Request,Return_Request,Negative,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Neutral,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Negative,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Neutral,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Neutral,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+I would like to return request regarding my recent order.,Request,Return_Request,Positive,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Strongly Positive,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Neutral,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Neutral,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Strongly Positive,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Positive,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+I want to give feedback about track package.,Feedback,Track_Package,Strongly Negative,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Strongly Negative,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Positive,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Positive,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Positive,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Strongly Positive,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Positive,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Neutral,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+I would like to return request regarding my recent order.,Request,Return_Request,Positive,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Neutral,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Neutral,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Negative,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Negative,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Positive,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Neutral,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Neutral,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Neutral,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Neutral,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Negative,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Neutral,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Neutral,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Neutral,ecommerce,dev
+Please help me with track package as soon as possible.,Feedback,Track_Package,Positive,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Negative,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Strongly Positive,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+Please help me with track package as soon as possible.,Feedback,Track_Package,Positive,ecommerce,dev
+I want to give feedback about product inquiry.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Neutral,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+I want to give feedback about track package.,Feedback,Track_Package,Neutral,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Neutral,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Neutral,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Positive,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Positive,ecommerce,dev
+I am experiencing an issue related to payment issue.,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+I would like to return request regarding my recent order.,Request,Return_Request,Neutral,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+I want to give feedback about track package.,Feedback,Track_Package,Neutral,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Negative,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Neutral,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Positive,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Negative,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Neutral,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Positive,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Positive,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Negative,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Neutral,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Strongly Positive,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Negative,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Neutral,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Negative,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Neutral,ecommerce,dev
+Can you provide information about report problem?,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Neutral,ecommerce,dev
+I want to give feedback about track package.,Feedback,Track_Package,Negative,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Negative,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Positive,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Negative,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Neutral,ecommerce,dev
+Please help me with book ticket as soon as possible.,Request,Book_Ticket,Neutral,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Neutral,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Positive,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Neutral,ecommerce,dev
+I want to give feedback about track package.,Feedback,Track_Package,Neutral,ecommerce,dev
+I want to give feedback about product inquiry.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Neutral,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Negative,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Strongly Negative,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Positive,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Strongly Positive,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Negative,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Negative,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Positive,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Neutral,ecommerce,dev
+I am experiencing an issue related to payment issue.,Complaint,Payment_Issue,Neutral,ecommerce,dev
+I would like to report problem regarding my recent order.,Complaint,Report_Problem,Positive,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Negative,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Negative,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Positive,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Strongly Positive,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Negative,ecommerce,dev
+Please help me with book ticket as soon as possible.,Request,Book_Ticket,Negative,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+Please help me with track package as soon as possible.,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Negative,ecommerce,dev
+I would like to return request regarding my recent order.,Request,Return_Request,Negative,ecommerce,dev
+Can you provide information about report problem?,Complaint,Report_Problem,Neutral,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Strongly Positive,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Positive,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Neutral,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Negative,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Positive,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Neutral,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Positive,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Strongly Negative,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Positive,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Neutral,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Negative,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Negative,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Negative,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Negative,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Negative,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Strongly Positive,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Negative,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Negative,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Negative,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Neutral,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Positive,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Positive,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Neutral,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Positive,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to payment issue.,Complaint,Payment_Issue,Positive,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Negative,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Negative,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Positive,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Neutral,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+I want to give feedback about product inquiry.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Neutral,ecommerce,dev
+I am experiencing an issue related to payment issue.,Complaint,Payment_Issue,Positive,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Negative,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+Please help me with book ticket as soon as possible.,Request,Book_Ticket,Negative,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Strongly Negative,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Neutral,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Positive,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+Please help me with book ticket as soon as possible.,Request,Book_Ticket,Positive,ecommerce,dev
+Can you provide information about report problem?,Complaint,Report_Problem,Neutral,ecommerce,dev
+Please help me with return request as soon as possible.,Request,Return_Request,Neutral,ecommerce,dev
+I am experiencing an issue related to payment issue.,Complaint,Payment_Issue,Neutral,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Positive,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Neutral,ecommerce,dev
+I am experiencing an issue related to book ticket.,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+I want to give feedback about delivery status.,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+I want to give feedback about track package.,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Negative,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Positive,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Negative,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Negative,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Positive,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Positive,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Negative,ecommerce,dev
+Please help me with track package as soon as possible.,Feedback,Track_Package,Positive,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Positive,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Negative,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Positive,ecommerce,dev
+I want to give feedback about product inquiry.,Query,Product_Inquiry,Positive,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Strongly Negative,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Negative,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Strongly Positive,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Neutral,ecommerce,dev
+I want to give feedback about product inquiry.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Neutral,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Neutral,ecommerce,dev
+I would like to return request regarding my recent order.,Request,Return_Request,Positive,ecommerce,dev
+Please help me with track package as soon as possible.,Feedback,Track_Package,Neutral,ecommerce,dev
+I want to give feedback about product inquiry.,Query,Product_Inquiry,Negative,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Positive,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Neutral,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Negative,ecommerce,dev
+Please help me with return request as soon as possible.,Request,Return_Request,Positive,ecommerce,dev
+I want to give feedback about track package.,Feedback,Track_Package,Negative,ecommerce,dev
+I want to give feedback about delivery status.,Query,Delivery_Status,Negative,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Positive,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Negative,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Negative,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Neutral,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Negative,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Positive,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Negative,ecommerce,dev
+I want to give feedback about delivery status.,Query,Delivery_Status,Negative,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+I want to give feedback about track package.,Feedback,Track_Package,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+I would like to report problem regarding my recent order.,Complaint,Report_Problem,Negative,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Neutral,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Neutral,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Positive,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Negative,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Neutral,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Neutral,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Positive,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Strongly Negative,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Neutral,ecommerce,dev
+I am experiencing an issue related to book ticket.,Request,Book_Ticket,Positive,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Strongly Negative,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Neutral,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Strongly Negative,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Positive,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Negative,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Negative,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Neutral,ecommerce,dev
+I am experiencing an issue related to payment issue.,Complaint,Payment_Issue,Neutral,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Negative,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Neutral,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Positive,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Positive,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Negative,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Neutral,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Neutral,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Strongly Positive,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Negative,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Strongly Negative,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Strongly Positive,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Positive,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Neutral,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Strongly Negative,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Strongly Positive,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Strongly Negative,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Negative,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Strongly Positive,ecommerce,dev
+Can you provide information about report problem?,Complaint,Report_Problem,Strongly Positive,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Neutral,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Neutral,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+Can you provide information about report problem?,Complaint,Report_Problem,Neutral,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Negative,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Neutral,ecommerce,dev
+I am experiencing an issue related to payment issue.,Complaint,Payment_Issue,Strongly Positive,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Negative,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+I want to give feedback about delivery status.,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Negative,ecommerce,dev
+I want to give feedback about delivery status.,Query,Delivery_Status,Negative,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+Please help me with track package as soon as possible.,Feedback,Track_Package,Negative,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Positive,ecommerce,dev
+I would like to report problem regarding my recent order.,Complaint,Report_Problem,Strongly Positive,ecommerce,dev
+Can you provide information about report problem?,Complaint,Report_Problem,Strongly Positive,ecommerce,dev
+I want to give feedback about track package.,Feedback,Track_Package,Negative,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Neutral,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Neutral,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+I would like to return request regarding my recent order.,Request,Return_Request,Neutral,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+Please help me with book ticket as soon as possible.,Request,Book_Ticket,Negative,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Positive,ecommerce,dev
+I am experiencing an issue related to book ticket.,Request,Book_Ticket,Neutral,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Neutral,ecommerce,dev
+Please help me with book ticket as soon as possible.,Request,Book_Ticket,Positive,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Negative,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Neutral,ecommerce,dev
+Can you provide information about report problem?,Complaint,Report_Problem,Negative,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Positive,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Negative,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Neutral,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Positive,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Negative,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Negative,ecommerce,dev
+I am experiencing an issue related to payment issue.,Complaint,Payment_Issue,Neutral,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Positive,ecommerce,dev
+I am experiencing an issue related to book ticket.,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+I would like to return request regarding my recent order.,Request,Return_Request,Neutral,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Neutral,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Negative,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Positive,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Neutral,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Positive,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Positive,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Neutral,ecommerce,dev
+I would like to return request regarding my recent order.,Request,Return_Request,Strongly Positive,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Neutral,ecommerce,dev
+Please help me with track package as soon as possible.,Feedback,Track_Package,Neutral,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Positive,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Positive,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Negative,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Negative,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Negative,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Neutral,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Negative,ecommerce,dev
+I am experiencing an issue related to book ticket.,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Negative,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Neutral,ecommerce,dev
+I want to give feedback about delivery status.,Query,Delivery_Status,Neutral,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Neutral,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Neutral,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Negative,ecommerce,dev
+I want to give feedback about delivery status.,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Strongly Positive,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Strongly Positive,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Negative,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Negative,ecommerce,dev
+I want to give feedback about track package.,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Neutral,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+I would like to return request regarding my recent order.,Request,Return_Request,Neutral,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Neutral,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Negative,ecommerce,dev
+I would like to return request regarding my recent order.,Request,Return_Request,Negative,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Neutral,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Strongly Positive,ecommerce,dev
+I would like to report problem regarding my recent order.,Complaint,Report_Problem,Neutral,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+Please help me with book ticket as soon as possible.,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Positive,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Strongly Positive,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Negative,ecommerce,dev
+I am experiencing an issue related to book ticket.,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Strongly Positive,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Positive,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Positive,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Positive,ecommerce,dev
+I would like to report problem regarding my recent order.,Complaint,Report_Problem,Positive,ecommerce,dev
+Please help me with book ticket as soon as possible.,Request,Book_Ticket,Negative,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Negative,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+Please help me with return request as soon as possible.,Request,Return_Request,Positive,ecommerce,dev
+I want to give feedback about delivery status.,Query,Delivery_Status,Negative,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Negative,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+I want to give feedback about product inquiry.,Query,Product_Inquiry,Negative,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+Please help me with book ticket as soon as possible.,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Strongly Positive,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Negative,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Negative,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Strongly Negative,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Positive,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Negative,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Negative,ecommerce,dev
+I am experiencing an issue related to payment issue.,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Negative,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Strongly Positive,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Neutral,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+I want to give feedback about product inquiry.,Query,Product_Inquiry,Neutral,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Negative,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Negative,ecommerce,dev
+I would like to return request regarding my recent order.,Request,Return_Request,Strongly Negative,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Negative,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Negative,ecommerce,dev
+I am experiencing an issue related to book ticket.,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Neutral,ecommerce,dev
+Please help me with track package as soon as possible.,Feedback,Track_Package,Negative,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Negative,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Neutral,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Strongly Negative,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Strongly Positive,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Neutral,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Positive,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Positive,ecommerce,dev
+I am experiencing an issue related to payment issue.,Complaint,Payment_Issue,Negative,ecommerce,dev
+Please help me with book ticket as soon as possible.,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Strongly Positive,ecommerce,dev
+I want to give feedback about delivery status.,Query,Delivery_Status,Neutral,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Negative,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Negative,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Neutral,ecommerce,dev
+I am experiencing an issue related to payment issue.,Complaint,Payment_Issue,Positive,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Positive,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Neutral,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Neutral,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Neutral,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Negative,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Positive,ecommerce,dev
+I am experiencing an issue related to book ticket.,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Positive,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Positive,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Neutral,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Positive,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Positive,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Negative,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Negative,ecommerce,dev
+Please help me with book ticket as soon as possible.,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Negative,ecommerce,dev
+Please help me with track package as soon as possible.,Feedback,Track_Package,Negative,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Strongly Negative,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Positive,ecommerce,dev
+Please help me with return request as soon as possible.,Request,Return_Request,Negative,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Positive,ecommerce,dev
+I would like to report problem regarding my recent order.,Complaint,Report_Problem,Negative,ecommerce,dev
+Please help me with return request as soon as possible.,Request,Return_Request,Strongly Positive,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Neutral,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Negative,ecommerce,dev
+I would like to return request regarding my recent order.,Request,Return_Request,Neutral,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Strongly Positive,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+Please help me with track package as soon as possible.,Feedback,Track_Package,Neutral,ecommerce,dev
+Please help me with return request as soon as possible.,Request,Return_Request,Neutral,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Neutral,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Negative,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Neutral,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Neutral,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+I would like to return request regarding my recent order.,Request,Return_Request,Negative,ecommerce,dev
+Please help me with track package as soon as possible.,Feedback,Track_Package,Negative,ecommerce,dev
+I want to give feedback about product inquiry.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Neutral,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Negative,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Positive,ecommerce,dev
+Please help me with track package as soon as possible.,Feedback,Track_Package,Strongly Negative,ecommerce,dev
+I want to give feedback about product inquiry.,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Negative,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Negative,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Negative,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Positive,ecommerce,dev
+I want to give feedback about product inquiry.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to book ticket.,Request,Book_Ticket,Neutral,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Negative,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Positive,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Positive,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Neutral,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Positive,ecommerce,dev
+Please help me with book ticket as soon as possible.,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Negative,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Negative,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Negative,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Negative,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Neutral,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Neutral,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Negative,ecommerce,dev
+Can you provide information about report problem?,Complaint,Report_Problem,Neutral,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Positive,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Positive,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Neutral,ecommerce,dev
+I am experiencing an issue related to book ticket.,Request,Book_Ticket,Positive,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Neutral,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Negative,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Positive,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Positive,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Positive,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Neutral,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Negative,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Neutral,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Negative,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Negative,ecommerce,dev
+Please help me with return request as soon as possible.,Request,Return_Request,Strongly Negative,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Negative,ecommerce,dev
+I would like to return request regarding my recent order.,Request,Return_Request,Strongly Negative,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Neutral,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Negative,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Neutral,ecommerce,dev
+I want to give feedback about product inquiry.,Query,Product_Inquiry,Positive,ecommerce,dev
+I would like to return request regarding my recent order.,Request,Return_Request,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Positive,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+I want to give feedback about delivery status.,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Negative,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+I want to give feedback about product inquiry.,Query,Product_Inquiry,Positive,ecommerce,dev
+Can you provide information about report problem?,Complaint,Report_Problem,Neutral,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Strongly Positive,ecommerce,dev
+Please help me with track package as soon as possible.,Feedback,Track_Package,Neutral,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Neutral,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Positive,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Neutral,ecommerce,dev
+I want to give feedback about track package.,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Neutral,ecommerce,dev
+I would like to report problem regarding my recent order.,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to book ticket.,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Neutral,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Positive,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Negative,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to book ticket.,Request,Book_Ticket,Neutral,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Negative,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+I want to give feedback about track package.,Feedback,Track_Package,Negative,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Negative,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Negative,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Positive,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Neutral,ecommerce,dev
+Can you provide information about report problem?,Complaint,Report_Problem,Neutral,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Positive,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+Please help me with book ticket as soon as possible.,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+Can you provide information about report problem?,Complaint,Report_Problem,Positive,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Positive,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Negative,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Positive,ecommerce,dev
+Please help me with book ticket as soon as possible.,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Positive,ecommerce,dev
+I would like to report problem regarding my recent order.,Complaint,Report_Problem,Strongly Positive,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Positive,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Strongly Negative,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+I want to give feedback about track package.,Feedback,Track_Package,Negative,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Neutral,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Negative,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Negative,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+I want to give feedback about product inquiry.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Neutral,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Positive,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Negative,ecommerce,dev
+Can you provide information about report problem?,Complaint,Report_Problem,Negative,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Neutral,ecommerce,dev
+I am experiencing an issue related to payment issue.,Complaint,Payment_Issue,Positive,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Positive,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+Please help me with return request as soon as possible.,Request,Return_Request,Strongly Negative,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Negative,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Positive,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+I would like to report problem regarding my recent order.,Complaint,Report_Problem,Strongly Positive,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Strongly Positive,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Strongly Positive,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Positive,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Neutral,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Neutral,ecommerce,dev
+I want to give feedback about delivery status.,Query,Delivery_Status,Neutral,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Positive,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+Please help me with track package as soon as possible.,Feedback,Track_Package,Neutral,ecommerce,dev
+I want to give feedback about product inquiry.,Query,Product_Inquiry,Positive,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Strongly Positive,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Negative,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Neutral,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Positive,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Neutral,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Negative,ecommerce,dev
+I am experiencing an issue related to book ticket.,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Positive,ecommerce,dev
+I want to give feedback about delivery status.,Query,Delivery_Status,Negative,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Negative,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Negative,ecommerce,dev
+I want to give feedback about delivery status.,Query,Delivery_Status,Positive,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Positive,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+Please help me with book ticket as soon as possible.,Request,Book_Ticket,Negative,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Positive,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Neutral,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Neutral,ecommerce,dev
+Please help me with return request as soon as possible.,Request,Return_Request,Negative,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Negative,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Strongly Positive,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Negative,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Strongly Negative,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Negative,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Positive,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Positive,ecommerce,dev
+Please help me with book ticket as soon as possible.,Request,Book_Ticket,Positive,ecommerce,dev
+Can you provide information about report problem?,Complaint,Report_Problem,Positive,ecommerce,dev
+I am experiencing an issue related to payment issue.,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+I want to give feedback about product inquiry.,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Neutral,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Positive,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Strongly Positive,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Neutral,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Neutral,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Neutral,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Neutral,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Negative,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Neutral,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Neutral,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Neutral,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Neutral,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Negative,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Negative,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Neutral,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Neutral,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Positive,ecommerce,dev
+Please help me with book ticket as soon as possible.,Request,Book_Ticket,Neutral,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Negative,ecommerce,dev
+I am experiencing an issue related to book ticket.,Request,Book_Ticket,Positive,ecommerce,dev
+Please help me with return request as soon as possible.,Request,Return_Request,Negative,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Positive,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Positive,ecommerce,dev
+I want to give feedback about delivery status.,Query,Delivery_Status,Negative,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Neutral,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to book ticket.,Request,Book_Ticket,Neutral,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Positive,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Negative,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Negative,ecommerce,dev
+Can you provide information about report problem?,Complaint,Report_Problem,Strongly Positive,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Positive,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Neutral,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Negative,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+I want to give feedback about track package.,Feedback,Track_Package,Negative,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Negative,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Neutral,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+I want to give feedback about track package.,Feedback,Track_Package,Strongly Negative,ecommerce,dev
+Please help me with return request as soon as possible.,Request,Return_Request,Strongly Negative,ecommerce,dev
+Please help me with track package as soon as possible.,Feedback,Track_Package,Negative,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Strongly Positive,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Positive,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Positive,ecommerce,dev
+I want to give feedback about track package.,Feedback,Track_Package,Neutral,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Neutral,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Positive,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Positive,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Neutral,ecommerce,dev
+I would like to report problem regarding my recent order.,Complaint,Report_Problem,Negative,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Neutral,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Neutral,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Positive,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Strongly Positive,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Negative,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Positive,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Neutral,ecommerce,dev
+Can you provide information about report problem?,Complaint,Report_Problem,Neutral,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Neutral,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Strongly Positive,ecommerce,dev
+Can you provide information about report problem?,Complaint,Report_Problem,Strongly Positive,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Strongly Positive,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Negative,ecommerce,dev
+Please help me with book ticket as soon as possible.,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Strongly Positive,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Strongly Negative,ecommerce,dev
+I want to give feedback about product inquiry.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Neutral,ecommerce,dev
+I want to give feedback about track package.,Feedback,Track_Package,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Positive,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Positive,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Neutral,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Strongly Positive,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Neutral,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Negative,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Strongly Positive,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Positive,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Neutral,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Positive,ecommerce,dev
+Please help me with book ticket as soon as possible.,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Positive,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Negative,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Negative,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Neutral,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Negative,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Neutral,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+I would like to report problem regarding my recent order.,Complaint,Report_Problem,Positive,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Positive,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Neutral,ecommerce,dev
+I want to give feedback about product inquiry.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+I want to give feedback about track package.,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to payment issue.,Complaint,Payment_Issue,Negative,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Positive,ecommerce,dev
+Please help me with return request as soon as possible.,Request,Return_Request,Strongly Negative,ecommerce,dev
+Please help me with return request as soon as possible.,Request,Return_Request,Strongly Negative,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Neutral,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Positive,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Positive,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Neutral,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Negative,ecommerce,dev
+I would like to report problem regarding my recent order.,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Positive,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Positive,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Strongly Negative,ecommerce,dev
+I want to give feedback about track package.,Feedback,Track_Package,Negative,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Positive,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Neutral,ecommerce,dev
+I am experiencing an issue related to book ticket.,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+I would like to report problem regarding my recent order.,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Positive,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Negative,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Neutral,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Neutral,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Strongly Positive,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+I want to give feedback about track package.,Feedback,Track_Package,Negative,ecommerce,dev
+I want to give feedback about product inquiry.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Positive,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to payment issue.,Complaint,Payment_Issue,Positive,ecommerce,dev
+I am experiencing an issue related to book ticket.,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+I would like to report problem regarding my recent order.,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Negative,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Positive,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to book ticket.,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Positive,ecommerce,dev
+I am experiencing an issue related to payment issue.,Complaint,Payment_Issue,Negative,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Positive,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Neutral,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to book ticket.,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+I would like to return request regarding my recent order.,Request,Return_Request,Strongly Negative,ecommerce,dev
+Can you provide information about report problem?,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to book ticket.,Request,Book_Ticket,Positive,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Positive,ecommerce,dev
+I am experiencing an issue related to payment issue.,Complaint,Payment_Issue,Negative,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+I want to give feedback about track package.,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Negative,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Negative,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+I would like to return request regarding my recent order.,Request,Return_Request,Neutral,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Negative,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Neutral,ecommerce,dev
+I want to give feedback about delivery status.,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Negative,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Neutral,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Neutral,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Negative,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Positive,ecommerce,dev
+Please help me with return request as soon as possible.,Request,Return_Request,Strongly Negative,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Positive,ecommerce,dev
+Please help me with track package as soon as possible.,Feedback,Track_Package,Strongly Negative,ecommerce,dev
+Can you provide information about report problem?,Complaint,Report_Problem,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Neutral,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Strongly Positive,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Positive,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Strongly Positive,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Negative,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Positive,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Neutral,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Neutral,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Negative,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Positive,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Strongly Positive,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Negative,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Neutral,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Negative,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Neutral,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Positive,ecommerce,dev
+Please help me with return request as soon as possible.,Request,Return_Request,Strongly Positive,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Negative,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Positive,ecommerce,dev
+Please help me with book ticket as soon as possible.,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+I would like to return request regarding my recent order.,Request,Return_Request,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to book ticket.,Request,Book_Ticket,Neutral,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+Can you provide information about report problem?,Complaint,Report_Problem,Strongly Positive,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Strongly Positive,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Negative,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Strongly Positive,ecommerce,dev
+I would like to report problem regarding my recent order.,Complaint,Report_Problem,Strongly Positive,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+Please help me with return request as soon as possible.,Request,Return_Request,Neutral,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Neutral,ecommerce,dev
+I want to give feedback about track package.,Feedback,Track_Package,Positive,ecommerce,dev
+Please help me with track package as soon as possible.,Feedback,Track_Package,Neutral,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Positive,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Negative,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Negative,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Positive,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Strongly Positive,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Neutral,ecommerce,dev
+I am experiencing an issue related to payment issue.,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+I would like to report problem regarding my recent order.,Complaint,Report_Problem,Neutral,ecommerce,dev
+Please help me with track package as soon as possible.,Feedback,Track_Package,Neutral,ecommerce,dev
+Please help me with track package as soon as possible.,Feedback,Track_Package,Strongly Negative,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Neutral,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Negative,ecommerce,dev
+I want to give feedback about product inquiry.,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+I want to give feedback about product inquiry.,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+Can you provide information about report problem?,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Positive,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Positive,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Negative,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Negative,ecommerce,dev
+I want to give feedback about product inquiry.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+I would like to return request regarding my recent order.,Request,Return_Request,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Negative,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Neutral,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Negative,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Negative,ecommerce,dev
+I am experiencing an issue related to payment issue.,Complaint,Payment_Issue,Positive,ecommerce,dev
+Please help me with track package as soon as possible.,Feedback,Track_Package,Neutral,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Negative,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Positive,ecommerce,dev
+Please help me with cancel order as soon as possible.,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Strongly Negative,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+I want to give feedback about book ticket.,Request,Book_Ticket,Positive,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Neutral,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Neutral,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Neutral,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Negative,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Neutral,ecommerce,dev
+Can you provide information about report problem?,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+I would like to track package regarding my recent order.,Feedback,Track_Package,Negative,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Neutral,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Positive,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+Please help me with book ticket as soon as possible.,Request,Book_Ticket,Positive,ecommerce,dev
+Please help me with track package as soon as possible.,Feedback,Track_Package,Strongly Negative,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+Please help me with book ticket as soon as possible.,Request,Book_Ticket,Positive,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to payment issue.,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+I want to give feedback about track package.,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Negative,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Neutral,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Strongly Negative,ecommerce,dev
+Please help me with track package as soon as possible.,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Negative,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Strongly Positive,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Neutral,ecommerce,dev
+I would like to return request regarding my recent order.,Request,Return_Request,Neutral,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Neutral,ecommerce,dev
+Please help me with track package as soon as possible.,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Neutral,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Positive,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+I want to give feedback about delivery status.,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Positive,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+Can you provide information about report problem?,Complaint,Report_Problem,Strongly Negative,ecommerce,dev
+Can you provide information about cancel order?,Feedback,Cancel_Order,Positive,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Strongly Negative,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Neutral,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Positive,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Positive,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Negative,ecommerce,dev
+Please help me with book ticket as soon as possible.,Request,Book_Ticket,Neutral,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Strongly Negative,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Negative,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Positive,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Neutral,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Strongly Negative,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Positive,ecommerce,dev
+Can you provide information about payment issue?,Complaint,Payment_Issue,Positive,ecommerce,dev
+Please help me with payment issue as soon as possible.,Complaint,Payment_Issue,Negative,ecommerce,dev
+I am experiencing an issue related to book ticket.,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Negative,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Neutral,ecommerce,dev
+I want to give feedback about payment issue.,Complaint,Payment_Issue,Negative,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Negative,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Positive,ecommerce,dev
+I would like to cancel order regarding my recent order.,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+I want to give feedback about delivery status.,Query,Delivery_Status,Negative,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Positive,ecommerce,dev
+I am experiencing an issue related to book ticket.,Request,Book_Ticket,Neutral,ecommerce,dev
+I want to give feedback about report problem.,Complaint,Report_Problem,Positive,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Positive,ecommerce,dev
+I want to give feedback about product inquiry.,Query,Product_Inquiry,Neutral,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Strongly Negative,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Positive,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Strongly Negative,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Strongly Negative,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Negative,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to delivery status.,Query,Delivery_Status,Neutral,ecommerce,dev
+Can you provide information about report problem?,Complaint,Report_Problem,Negative,ecommerce,dev
+I am experiencing an issue related to cancel order.,Feedback,Cancel_Order,Positive,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Negative,ecommerce,dev
+Please help me with delivery status as soon as possible.,Query,Delivery_Status,Negative,ecommerce,dev
+Please help me with return request as soon as possible.,Request,Return_Request,Negative,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Neutral,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+Please help me with return request as soon as possible.,Request,Return_Request,Positive,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Negative,ecommerce,dev
+Please help me with return request as soon as possible.,Request,Return_Request,Negative,ecommerce,dev
+Please help me with return request as soon as possible.,Request,Return_Request,Strongly Negative,ecommerce,dev
+Can you provide information about book ticket?,Request,Book_Ticket,Neutral,ecommerce,dev
+I would like to book ticket regarding my recent order.,Request,Book_Ticket,Positive,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Strongly Positive,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Neutral,ecommerce,dev
+Please help me with track package as soon as possible.,Feedback,Track_Package,Positive,ecommerce,dev
+I would like to payment issue regarding my recent order.,Complaint,Payment_Issue,Strongly Positive,ecommerce,dev
+I want to give feedback about cancel order.,Feedback,Cancel_Order,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to track package.,Feedback,Track_Package,Negative,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Negative,ecommerce,dev
+I am experiencing an issue related to report problem.,Complaint,Report_Problem,Positive,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Neutral,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Positive,ecommerce,dev
+Can you provide information about track package?,Feedback,Track_Package,Strongly Positive,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Neutral,ecommerce,dev
+I want to give feedback about delivery status.,Query,Delivery_Status,Positive,ecommerce,dev
+I want to give feedback about return request.,Request,Return_Request,Strongly Negative,ecommerce,dev
+Please help me with report problem as soon as possible.,Complaint,Report_Problem,Neutral,ecommerce,dev
+I want to give feedback about product inquiry.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to return request.,Request,Return_Request,Neutral,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Strongly Positive,ecommerce,dev
+Please help me with product inquiry as soon as possible.,Query,Product_Inquiry,Neutral,ecommerce,dev
+I want to give feedback about track package.,Feedback,Track_Package,Neutral,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+Can you provide information about return request?,Request,Return_Request,Strongly Negative,ecommerce,dev
+I am experiencing an issue related to product inquiry.,Query,Product_Inquiry,Neutral,ecommerce,dev
+Can you provide information about product inquiry?,Query,Product_Inquiry,Negative,ecommerce,dev
+I would like to product inquiry regarding my recent order.,Query,Product_Inquiry,Strongly Negative,ecommerce,dev
+I would like to delivery status regarding my recent order.,Query,Delivery_Status,Strongly Positive,ecommerce,dev
+Can you provide information about delivery status?,Query,Delivery_Status,Strongly Negative,ecommerce,dev
